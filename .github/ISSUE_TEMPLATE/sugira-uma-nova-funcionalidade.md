@@ -1,12 +1,9 @@
 ---
-name: Sugira uma nova funcionalidade
-about: Descreva sua ideia
-title: ''
+name: 'BOTÃO PARA MUDAR A LINGUAGEM DO EXEMPLO'
+about: 'Na parte textual do curso,  permitiria que o aluno pudesse mudar o exemplo do código de JAVA para KOTLIN ou vice-versa.'
+title: 'BOTÃO JAVA/KOTLIN'
 labels: ''
 assignees: ''
 
----
-
-Descreva a funcionalidade que você gostaria que tivesse na plataforma.
-
-Quanto mais detalhada e focada for a descrição, melhor de priorizarmos, debatermos e de implementarmos.
+Por conta de algumas aulas utilizarem projetos  em Java e  outras  em Kotlin,possibilitaria ao aluno iniciar em uma linguagem e incorporar
+todas as bibliotecas e paradigmas utlizados pelos professor Alex durante toda a formação em Andoid.
